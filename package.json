@@ -1,0 +1,23 @@
+{
+  "name": "ec2-express-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mpiastucki/EC2-express-test.git"
+  },
+  "author": "mpiastucki",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mpiastucki/EC2-express-test/issues"
+  },
+  "homepage": "https://github.com/mpiastucki/EC2-express-test#readme",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3"
+  }
+}
